@@ -25,6 +25,7 @@ I'm a Flutter developer and vibe engineer from Egypt. I build mobile apps, websi
 - 🏢 Working on ERP systems for real businesses
 - 🎨 Designing in Figma and building design systems
 - ⚡ Vibe engineering: shipping faster with AI tools like Claude Code
+- 🎮 Some knowledge of Unreal Engine 5, and familiar with how it works
 
 ## Tech stack
 
@@ -42,6 +43,7 @@ I'm a Flutter developer and vibe engineer from Egypt. I build mobile apps, websi
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
 </p>
 
 ## Featured projects
