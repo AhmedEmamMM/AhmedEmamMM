@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://github.com/AhmedEmamMM/AhmedEmamMM/assets/102431895/01267ddf-2bcd-4e2f-a958-710c5260159a" alt="Flutter banner" width="100%" />
+  <img src="assets/banner.svg" alt="Ahmed Mohamed Emam, Flutter Developer &amp; Vibe Engineer. Mobile apps, websites, ERP systems, design systems." width="100%" />
 </p>
-
-<h1 align="center">Ahmed Mohamed Emam</h1>
-<h3 align="center">Flutter Developer &amp; Vibe Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/AhmedEmamMM">
