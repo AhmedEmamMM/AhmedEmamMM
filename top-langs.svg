@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="145" viewBox="0 0 350 145" role="img" aria-label="Most used languages">
+<style>.h{font:600 18px 'Segoe UI',Ubuntu,Sans-Serif;fill:#58A6FF}.t{font:400 12px 'Segoe UI',Ubuntu,Sans-Serif;fill:#C9D1D9}.m{fill:#8B949E}</style>
+<rect x="0.5" y="0.5" rx="6" width="349" height="144" fill="#0D1117" stroke="#30363D"/>
+<text x="25" y="35" class="h">Most Used Languages</text>
+<clipPath id="r"><rect x="25" y="55" width="300" height="8" rx="4"/></clipPath><g clip-path="url(#r)"><rect x="25.00" y="55" width="229.59" height="8" fill="#00B4AB"/><rect x="254.59" y="55" width="32.62" height="8" fill="#E34C26"/><rect x="287.21" y="55" width="25.86" height="8" fill="#F1E05A"/><rect x="313.07" y="55" width="11.93" height="8" fill="#663399"/></g>
+<circle cx="30" cy="89" r="5" fill="#00B4AB"/><text x="41" y="93" class="t">Dart <tspan class="m">76.5%</tspan></text><circle cx="180" cy="89" r="5" fill="#E34C26"/><text x="191" y="93" class="t">HTML <tspan class="m">10.9%</tspan></text><circle cx="30" cy="114" r="5" fill="#F1E05A"/><text x="41" y="118" class="t">JavaScript <tspan class="m">8.6%</tspan></text><circle cx="180" cy="114" r="5" fill="#663399"/><text x="191" y="118" class="t">CSS <tspan class="m">4.0%</tspan></text>
+</svg>
